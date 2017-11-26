@@ -25,7 +25,9 @@ SECRET_KEY = 'e(lgfgnm(qb4pb&b+3ao!=8s(-6&n@vu+a)jbv^#0v-me3jp+m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'autocenterapi.pythonanywhere.com',
+]
 
 
 # Application definition
