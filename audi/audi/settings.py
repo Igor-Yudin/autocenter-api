@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'autocenterapi.pythonanywhere.com',
+    'localhost',
 ]
 
 
